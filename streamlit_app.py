@@ -38,7 +38,7 @@ with st.sidebar:
     st.markdown("""
     | Service | Number |
     |---|---|
-    | **Women Helpline** | **181** |
+    | **NCW Helpline** | **7827170170** |
     | **Police** | **100** |
     | **CHILDLINE** | **1098** |
     | **Cyber Crime** | **1930** |
