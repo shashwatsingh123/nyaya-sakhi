@@ -39,6 +39,7 @@ with st.sidebar:
     | Service | Number |
     |---|---|
     | **NCW Helpline** | **7827170170** |
+    | **Women Helpline** | **181** |
     | **Police** | **100** |
     | **CHILDLINE** | **1098** |
     | **Cyber Crime** | **1930** |
