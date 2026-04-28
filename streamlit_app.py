@@ -33,7 +33,7 @@ st.markdown("""
 # SIDEBAR
 # ══════════════════════════════════════════════════════════════════════════════
 with st.sidebar:
-    st.image("https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emblem_of_India.svg/200px-Emblem_of_India.svg.png", width=100)
+    st.image("https://ncwapps.nic.in/images/logoncw.png", width=200)
     st.header("🚨 Emergency Helplines")
     st.markdown("""
     | Service | Number |
