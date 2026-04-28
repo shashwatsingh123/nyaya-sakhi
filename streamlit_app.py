@@ -45,10 +45,10 @@ with st.sidebar:
     | **Legal Aid (NALSA)** | **15100** |
     """)
     st.divider()
-    st.caption("⚠️ **Disclaimer:** Nyaya Sakhi provides legal information based on the Bharatiya Nyaya Sanhita, not official legal representation. In emergencies, call the police immediately.")
+    st.caption("⚠️ **Disclaimer:** Nyaya Sakhi provides legal information based on the Bharatiya Nyaya Sanhita. In emergencies, call the police immediately.")
     
     st.divider()
-    st.caption("Powered by locally hosted AI model and Vector DB via Ngrok Tunnel.")
+    st.caption("Made by Shashwat Singh")
 
 # ══════════════════════════════════════════════════════════════════════════════
 # MAIN CHAT INTERFACE
