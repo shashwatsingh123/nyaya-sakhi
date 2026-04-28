@@ -21,10 +21,7 @@ API_URL = os.environ.get("API_URL", "http://localhost:8000")
 # ══════════════════════════════════════════════════════════════════════════════
 st.markdown("""
 <style>
-    /* Add a subtle purple tint to match the original Gradio theme */
-    .stApp {
-        background-color: #FAFAFC;
-    }
+    /* Custom styling for headers */
     .main-header {
         color: #6B46C1;
         font-weight: 700;
